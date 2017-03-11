@@ -12,3 +12,10 @@ Features
 - Signing, Verify
 - Secure communication using session keys
 - Web service/client-server
+
+Crypto
+--------
+- DES, 2DES, 3DES
+- AES
+- RSA
+- SHA
